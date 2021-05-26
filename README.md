@@ -2,8 +2,8 @@
 
 ## Used pretrained model Wav2Lip for this project.
 
-IT takes two videos from the user and from the target footage it extracts the frames with faces
-
+It takes two videos from the user and from the target footage it extracts the frames with faces
+Just open and run the Jupiter notebook I does everything for u, just upload two videos.
 then,
 It is lip_synced with the other footage.
 
